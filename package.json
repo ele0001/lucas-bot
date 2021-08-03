@@ -1,0 +1,24 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "DISCORDBOT-LUCAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "kitsu.js": "^2.0.0",
+    "mal-scraper": "^2.11.3",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3",
+    "superagent": "^6.1.0"
+  }
+}

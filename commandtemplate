@@ -1,0 +1,12 @@
+const Discord = require('discord.js');
+
+module.exports = {
+	name: 'ping',
+	description: 'Just a test command',
+	aliases: [],
+	guildOnly: false,
+	args: false,
+	usage: '',
+	execute: async(message, args, client) => {
+	},
+};
