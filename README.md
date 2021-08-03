@@ -2,7 +2,7 @@
 - ###### This Project
 - ###### Node.js, Discord.js Installed
 - ###### Discord Bot Token, Prefix
-- ###### Edit the config.js and owner.json file
+- ###### Edit the config.json and reload.js - Change the ID in reload.js
 - ###### Run npm i once in Terminal to install Dependencies
 - ###### Run node index.js to RUN the bot.
 
