@@ -14,18 +14,18 @@
 
 # Commands
 
-> Ban | Unban
-> Lock | Unlock
-> Cat
-> Dog
-> Kick
-> Meme
-> Ping
-> Invite
-> Clear
-> User info
-> Server info
-> Slowmode
-> Corona
-> Dice
-> Coinflip
+###### Ban | Unban
+###### Lock | Unlock
+###### Cat
+###### Dog
+###### Kick
+###### Meme
+###### Ping
+###### Invite
+###### Clear
+###### User info
+###### Server info
+###### Slowmode
+###### Corona
+###### Dice
+###### Coinflip
